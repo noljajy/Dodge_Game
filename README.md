@@ -1,6 +1,6 @@
-### Hi Dodge 👋
+### Hi Dodge_Game 👋
 
- - 모션으로 제어하는 Dodge 게임
+ - 모션으로 객체를 제어하는 피하기 게임(Dodge_game)
 
 <!--
 **noljajy/noljajy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
